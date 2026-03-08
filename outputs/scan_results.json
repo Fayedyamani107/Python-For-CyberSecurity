@@ -1,0 +1,702 @@
+[
+    {
+        "port": 1,
+        "status": "closed",
+        "timestamp": "2026-03-08T14:44:24.405755",
+        "banner": null,
+        "latency_ms": 1007.15
+    },
+    {
+        "port": 2,
+        "status": "closed",
+        "timestamp": "2026-03-08T14:44:25.414808",
+        "banner": null,
+        "latency_ms": 1014.17
+    },
+    {
+        "port": 3,
+        "status": "closed",
+        "timestamp": "2026-03-08T14:44:26.447919",
+        "banner": null,
+        "latency_ms": 1013.02
+    },
+    {
+        "port": 4,
+        "status": "closed",
+        "timestamp": "2026-03-08T14:44:27.462007",
+        "banner": null,
+        "latency_ms": 1000.19
+    },
+    {
+        "port": 5,
+        "status": "closed",
+        "timestamp": "2026-03-08T14:44:28.462855",
+        "banner": null,
+        "latency_ms": 1010.09
+    },
+    {
+        "port": 6,
+        "status": "closed",
+        "timestamp": "2026-03-08T14:44:29.473664",
+        "banner": null,
+        "latency_ms": 1001.03
+    },
+    {
+        "port": 7,
+        "status": "closed",
+        "timestamp": "2026-03-08T14:44:30.475302",
+        "banner": null,
+        "latency_ms": 1009.84
+    },
+    {
+        "port": 8,
+        "status": "closed",
+        "timestamp": "2026-03-08T14:44:31.485700",
+        "banner": null,
+        "latency_ms": 999.94
+    },
+    {
+        "port": 9,
+        "status": "closed",
+        "timestamp": "2026-03-08T14:44:32.486120",
+        "banner": null,
+        "latency_ms": 1012.63
+    },
+    {
+        "port": 10,
+        "status": "closed",
+        "timestamp": "2026-03-08T14:44:33.499433",
+        "banner": null,
+        "latency_ms": 1002.16
+    },
+    {
+        "port": 11,
+        "status": "closed",
+        "timestamp": "2026-03-08T14:44:34.502192",
+        "banner": null,
+        "latency_ms": 1000.77
+    },
+    {
+        "port": 12,
+        "status": "closed",
+        "timestamp": "2026-03-08T14:44:35.503604",
+        "banner": null,
+        "latency_ms": 1001.92
+    },
+    {
+        "port": 13,
+        "status": "closed",
+        "timestamp": "2026-03-08T14:44:36.506056",
+        "banner": null,
+        "latency_ms": 1000.01
+    },
+    {
+        "port": 14,
+        "status": "closed",
+        "timestamp": "2026-03-08T14:44:37.506762",
+        "banner": null,
+        "latency_ms": 1014.04
+    },
+    {
+        "port": 15,
+        "status": "closed",
+        "timestamp": "2026-03-08T14:44:38.522034",
+        "banner": null,
+        "latency_ms": 1014.32
+    },
+    {
+        "port": 16,
+        "status": "closed",
+        "timestamp": "2026-03-08T14:44:39.536994",
+        "banner": null,
+        "latency_ms": 1015.08
+    },
+    {
+        "port": 17,
+        "status": "closed",
+        "timestamp": "2026-03-08T14:44:40.552623",
+        "banner": null,
+        "latency_ms": 1000.48
+    },
+    {
+        "port": 18,
+        "status": "closed",
+        "timestamp": "2026-03-08T14:44:41.553679",
+        "banner": null,
+        "latency_ms": 1010.96
+    },
+    {
+        "port": 19,
+        "status": "closed",
+        "timestamp": "2026-03-08T14:44:42.565157",
+        "banner": null,
+        "latency_ms": 1013.81
+    },
+    {
+        "port": 20,
+        "status": "closed",
+        "timestamp": "2026-03-08T14:44:43.579557",
+        "banner": null,
+        "latency_ms": 1011.37
+    },
+    {
+        "port": 21,
+        "status": "closed",
+        "timestamp": "2026-03-08T14:44:44.591803",
+        "banner": null,
+        "latency_ms": 1007.2
+    },
+    {
+        "port": 22,
+        "status": "closed",
+        "timestamp": "2026-03-08T14:44:45.600025",
+        "banner": null,
+        "latency_ms": 1013.42
+    },
+    {
+        "port": 23,
+        "status": "closed",
+        "timestamp": "2026-03-08T14:44:46.614146",
+        "banner": null,
+        "latency_ms": 1007.72
+    },
+    {
+        "port": 24,
+        "status": "closed",
+        "timestamp": "2026-03-08T14:44:47.622506",
+        "banner": null,
+        "latency_ms": 1008.55
+    },
+    {
+        "port": 25,
+        "status": "closed",
+        "timestamp": "2026-03-08T14:44:48.631613",
+        "banner": null,
+        "latency_ms": 1014.92
+    },
+    {
+        "port": 26,
+        "status": "closed",
+        "timestamp": "2026-03-08T14:44:49.647088",
+        "banner": null,
+        "latency_ms": 1000.37
+    },
+    {
+        "port": 27,
+        "status": "closed",
+        "timestamp": "2026-03-08T14:44:50.648025",
+        "banner": null,
+        "latency_ms": 1001.04
+    },
+    {
+        "port": 28,
+        "status": "closed",
+        "timestamp": "2026-03-08T14:44:51.649586",
+        "banner": null,
+        "latency_ms": 1010.75
+    },
+    {
+        "port": 29,
+        "status": "closed",
+        "timestamp": "2026-03-08T14:44:52.660897",
+        "banner": null,
+        "latency_ms": 1006.43
+    },
+    {
+        "port": 30,
+        "status": "closed",
+        "timestamp": "2026-03-08T14:44:53.667974",
+        "banner": null,
+        "latency_ms": 1011.43
+    },
+    {
+        "port": 31,
+        "status": "closed",
+        "timestamp": "2026-03-08T14:44:54.679994",
+        "banner": null,
+        "latency_ms": 1000.9
+    },
+    {
+        "port": 32,
+        "status": "closed",
+        "timestamp": "2026-03-08T14:44:55.681556",
+        "banner": null,
+        "latency_ms": 1009.7
+    },
+    {
+        "port": 33,
+        "status": "closed",
+        "timestamp": "2026-03-08T14:44:56.692075",
+        "banner": null,
+        "latency_ms": 1011.36
+    },
+    {
+        "port": 34,
+        "status": "closed",
+        "timestamp": "2026-03-08T14:44:57.721263",
+        "banner": null,
+        "latency_ms": 1001.22
+    },
+    {
+        "port": 35,
+        "status": "closed",
+        "timestamp": "2026-03-08T14:44:58.723226",
+        "banner": null,
+        "latency_ms": 1013.71
+    },
+    {
+        "port": 36,
+        "status": "closed",
+        "timestamp": "2026-03-08T14:44:59.737543",
+        "banner": null,
+        "latency_ms": 1013.24
+    },
+    {
+        "port": 37,
+        "status": "closed",
+        "timestamp": "2026-03-08T14:45:00.751617",
+        "banner": null,
+        "latency_ms": 1001.76
+    },
+    {
+        "port": 38,
+        "status": "closed",
+        "timestamp": "2026-03-08T14:45:01.753986",
+        "banner": null,
+        "latency_ms": 1005.07
+    },
+    {
+        "port": 39,
+        "status": "closed",
+        "timestamp": "2026-03-08T14:45:02.759816",
+        "banner": null,
+        "latency_ms": 1004.52
+    },
+    {
+        "port": 40,
+        "status": "closed",
+        "timestamp": "2026-03-08T14:45:03.765065",
+        "banner": null,
+        "latency_ms": 1006.09
+    },
+    {
+        "port": 41,
+        "status": "closed",
+        "timestamp": "2026-03-08T14:45:04.771914",
+        "banner": null,
+        "latency_ms": 1014.23
+    },
+    {
+        "port": 42,
+        "status": "closed",
+        "timestamp": "2026-03-08T14:45:05.786778",
+        "banner": null,
+        "latency_ms": 1013.39
+    },
+    {
+        "port": 43,
+        "status": "closed",
+        "timestamp": "2026-03-08T14:45:06.800664",
+        "banner": null,
+        "latency_ms": 1010.81
+    },
+    {
+        "port": 44,
+        "status": "closed",
+        "timestamp": "2026-03-08T14:45:07.812234",
+        "banner": null,
+        "latency_ms": 1013.11
+    },
+    {
+        "port": 45,
+        "status": "closed",
+        "timestamp": "2026-03-08T14:45:08.825842",
+        "banner": null,
+        "latency_ms": 1002.12
+    },
+    {
+        "port": 46,
+        "status": "closed",
+        "timestamp": "2026-03-08T14:45:09.828594",
+        "banner": null,
+        "latency_ms": 1001.91
+    },
+    {
+        "port": 47,
+        "status": "closed",
+        "timestamp": "2026-03-08T14:45:10.831182",
+        "banner": null,
+        "latency_ms": 1014.7
+    },
+    {
+        "port": 48,
+        "status": "closed",
+        "timestamp": "2026-03-08T14:45:11.846500",
+        "banner": null,
+        "latency_ms": 1009.28
+    },
+    {
+        "port": 49,
+        "status": "closed",
+        "timestamp": "2026-03-08T14:45:12.856359",
+        "banner": null,
+        "latency_ms": 1002.02
+    },
+    {
+        "port": 50,
+        "status": "closed",
+        "timestamp": "2026-03-08T14:45:13.859086",
+        "banner": null,
+        "latency_ms": 1006.79
+    },
+    {
+        "port": 51,
+        "status": "closed",
+        "timestamp": "2026-03-08T14:45:14.866493",
+        "banner": null,
+        "latency_ms": 1003.92
+    },
+    {
+        "port": 52,
+        "status": "closed",
+        "timestamp": "2026-03-08T14:45:15.870932",
+        "banner": null,
+        "latency_ms": 1016.54
+    },
+    {
+        "port": 53,
+        "status": "closed",
+        "timestamp": "2026-03-08T14:45:16.888543",
+        "banner": null,
+        "latency_ms": 1012.95
+    },
+    {
+        "port": 54,
+        "status": "closed",
+        "timestamp": "2026-03-08T14:45:17.902398",
+        "banner": null,
+        "latency_ms": 1006.66
+    },
+    {
+        "port": 55,
+        "status": "closed",
+        "timestamp": "2026-03-08T14:45:18.909735",
+        "banner": null,
+        "latency_ms": 1011.07
+    },
+    {
+        "port": 56,
+        "status": "closed",
+        "timestamp": "2026-03-08T14:45:19.921380",
+        "banner": null,
+        "latency_ms": 1010.71
+    },
+    {
+        "port": 57,
+        "status": "closed",
+        "timestamp": "2026-03-08T14:45:20.932919",
+        "banner": null,
+        "latency_ms": 1004.49
+    },
+    {
+        "port": 58,
+        "status": "closed",
+        "timestamp": "2026-03-08T14:45:21.937971",
+        "banner": null,
+        "latency_ms": 1008.81
+    },
+    {
+        "port": 59,
+        "status": "closed",
+        "timestamp": "2026-03-08T14:45:22.947303",
+        "banner": null,
+        "latency_ms": 1014.92
+    },
+    {
+        "port": 60,
+        "status": "closed",
+        "timestamp": "2026-03-08T14:45:23.962897",
+        "banner": null,
+        "latency_ms": 1012.83
+    },
+    {
+        "port": 61,
+        "status": "closed",
+        "timestamp": "2026-03-08T14:45:24.976488",
+        "banner": null,
+        "latency_ms": 1010.84
+    },
+    {
+        "port": 62,
+        "status": "closed",
+        "timestamp": "2026-03-08T14:45:25.987999",
+        "banner": null,
+        "latency_ms": 1008.38
+    },
+    {
+        "port": 63,
+        "status": "closed",
+        "timestamp": "2026-03-08T14:45:26.997139",
+        "banner": null,
+        "latency_ms": 1008.69
+    },
+    {
+        "port": 64,
+        "status": "closed",
+        "timestamp": "2026-03-08T14:45:28.006743",
+        "banner": null,
+        "latency_ms": 1000.69
+    },
+    {
+        "port": 65,
+        "status": "closed",
+        "timestamp": "2026-03-08T14:45:29.008172",
+        "banner": null,
+        "latency_ms": 1001.19
+    },
+    {
+        "port": 66,
+        "status": "closed",
+        "timestamp": "2026-03-08T14:45:30.010174",
+        "banner": null,
+        "latency_ms": 1000.35
+    },
+    {
+        "port": 67,
+        "status": "closed",
+        "timestamp": "2026-03-08T14:45:31.011140",
+        "banner": null,
+        "latency_ms": 1004.65
+    },
+    {
+        "port": 68,
+        "status": "closed",
+        "timestamp": "2026-03-08T14:45:32.016460",
+        "banner": null,
+        "latency_ms": 1009.99
+    },
+    {
+        "port": 69,
+        "status": "closed",
+        "timestamp": "2026-03-08T14:45:33.027320",
+        "banner": null,
+        "latency_ms": 1012.47
+    },
+    {
+        "port": 70,
+        "status": "closed",
+        "timestamp": "2026-03-08T14:45:34.040759",
+        "banner": null,
+        "latency_ms": 1000.77
+    },
+    {
+        "port": 71,
+        "status": "closed",
+        "timestamp": "2026-03-08T14:45:35.042148",
+        "banner": null,
+        "latency_ms": 1010.27
+    },
+    {
+        "port": 72,
+        "status": "closed",
+        "timestamp": "2026-03-08T14:45:36.053069",
+        "banner": null,
+        "latency_ms": 1000.28
+    },
+    {
+        "port": 73,
+        "status": "closed",
+        "timestamp": "2026-03-08T14:45:37.053963",
+        "banner": null,
+        "latency_ms": 1001.69
+    },
+    {
+        "port": 74,
+        "status": "closed",
+        "timestamp": "2026-03-08T14:45:38.056562",
+        "banner": null,
+        "latency_ms": 1000.52
+    },
+    {
+        "port": 75,
+        "status": "closed",
+        "timestamp": "2026-03-08T14:45:39.057906",
+        "banner": null,
+        "latency_ms": 1000.11
+    },
+    {
+        "port": 76,
+        "status": "closed",
+        "timestamp": "2026-03-08T14:45:40.058551",
+        "banner": null,
+        "latency_ms": 1001.01
+    },
+    {
+        "port": 77,
+        "status": "closed",
+        "timestamp": "2026-03-08T14:45:41.060071",
+        "banner": null,
+        "latency_ms": 1011.55
+    },
+    {
+        "port": 78,
+        "status": "closed",
+        "timestamp": "2026-03-08T14:45:42.072140",
+        "banner": null,
+        "latency_ms": 1014.77
+    },
+    {
+        "port": 79,
+        "status": "closed",
+        "timestamp": "2026-03-08T14:45:43.087423",
+        "banner": null,
+        "latency_ms": 1014.34
+    },
+    {
+        "port": 80,
+        "status": "closed",
+        "timestamp": "2026-03-08T14:45:44.102431",
+        "banner": null,
+        "latency_ms": 1005.18
+    },
+    {
+        "port": 81,
+        "status": "closed",
+        "timestamp": "2026-03-08T14:45:45.108427",
+        "banner": null,
+        "latency_ms": 1009.3
+    },
+    {
+        "port": 82,
+        "status": "closed",
+        "timestamp": "2026-03-08T14:45:46.118520",
+        "banner": null,
+        "latency_ms": 1003.07
+    },
+    {
+        "port": 83,
+        "status": "closed",
+        "timestamp": "2026-03-08T14:45:47.122651",
+        "banner": null,
+        "latency_ms": 1000.65
+    },
+    {
+        "port": 84,
+        "status": "closed",
+        "timestamp": "2026-03-08T14:45:48.124179",
+        "banner": null,
+        "latency_ms": 1003.44
+    },
+    {
+        "port": 85,
+        "status": "closed",
+        "timestamp": "2026-03-08T14:45:49.128316",
+        "banner": null,
+        "latency_ms": 1003.2
+    },
+    {
+        "port": 86,
+        "status": "closed",
+        "timestamp": "2026-03-08T14:45:50.132084",
+        "banner": null,
+        "latency_ms": 1011.84
+    },
+    {
+        "port": 87,
+        "status": "closed",
+        "timestamp": "2026-03-08T14:45:51.144443",
+        "banner": null,
+        "latency_ms": 1010.64
+    },
+    {
+        "port": 88,
+        "status": "closed",
+        "timestamp": "2026-03-08T14:45:52.155576",
+        "banner": null,
+        "latency_ms": 1014.21
+    },
+    {
+        "port": 89,
+        "status": "closed",
+        "timestamp": "2026-03-08T14:45:53.170340",
+        "banner": null,
+        "latency_ms": 1014.47
+    },
+    {
+        "port": 90,
+        "status": "closed",
+        "timestamp": "2026-03-08T14:45:54.185771",
+        "banner": null,
+        "latency_ms": 1006.14
+    },
+    {
+        "port": 91,
+        "status": "closed",
+        "timestamp": "2026-03-08T14:45:55.192706",
+        "banner": null,
+        "latency_ms": 1005.08
+    },
+    {
+        "port": 92,
+        "status": "closed",
+        "timestamp": "2026-03-08T14:45:56.198581",
+        "banner": null,
+        "latency_ms": 1013.15
+    },
+    {
+        "port": 93,
+        "status": "closed",
+        "timestamp": "2026-03-08T14:45:57.212341",
+        "banner": null,
+        "latency_ms": 1013.81
+    },
+    {
+        "port": 94,
+        "status": "closed",
+        "timestamp": "2026-03-08T14:45:58.226993",
+        "banner": null,
+        "latency_ms": 999.85
+    },
+    {
+        "port": 95,
+        "status": "closed",
+        "timestamp": "2026-03-08T14:45:59.227439",
+        "banner": null,
+        "latency_ms": 1010.53
+    },
+    {
+        "port": 96,
+        "status": "closed",
+        "timestamp": "2026-03-08T14:46:00.246143",
+        "banner": null,
+        "latency_ms": 1004.67
+    },
+    {
+        "port": 97,
+        "status": "closed",
+        "timestamp": "2026-03-08T14:46:01.251517",
+        "banner": null,
+        "latency_ms": 1002.62
+    },
+    {
+        "port": 98,
+        "status": "closed",
+        "timestamp": "2026-03-08T14:46:02.254916",
+        "banner": null,
+        "latency_ms": 1008.64
+    },
+    {
+        "port": 99,
+        "status": "closed",
+        "timestamp": "2026-03-08T14:46:03.264419",
+        "banner": null,
+        "latency_ms": 1015.87
+    },
+    {
+        "port": 100,
+        "status": "closed",
+        "timestamp": "2026-03-08T14:46:04.281160",
+        "banner": null,
+        "latency_ms": 1009.18
+    }
+]
